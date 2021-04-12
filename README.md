@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Tito</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mtitos" alt="mtitos" /></a> </p>
-
 - 🌱 I’m currently learning **TypeScript, React and NextJS.**
 
 - 📫 How to reach me **mthsilva0@gmail.com**
