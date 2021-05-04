@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning more about **TypeScript, React and NextJS.**
 
-- 📫 How to reach me **mthsilva0@gmail.com**
+- 📫 How to reach me **mthsilva0@gmail.com**.
 
 - ⚡ Fun fact **I like to play the piano and the guitar and love going to the gym.**
 
