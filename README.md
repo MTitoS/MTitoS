@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Tito</h1>
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">A front-end developer from Brazil</h3>
 
 - 🌱 I’m currently learning more about **TypeScript, React and NextJS.**
 
