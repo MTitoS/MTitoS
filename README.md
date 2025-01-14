@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Tito</h1>
-<h3 align="center">A full-stack developer from Brazil</h3>
+<h3 align="center">A full-stack developer</h3>
 
 - 🌱 I’m currently doing the **CS50 Course.**
 - 💼 Working at BTG Pactual - the largest investment bank in Latin America
