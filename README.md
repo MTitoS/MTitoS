@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Tito</h1>
 <h3 align="center">A full-stack developer</h3>
 
-- 🌱 I’m currently doing the **CS50 Course.**
+- 🌱 I’m currently doing the **CS50 Course** and reading the book **Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People**.
 - 💼 Working at BTG Pactual - the largest investment bank in Latin America
 
 - 📫 How to reach me **mthsilva0@gmail.com**.
